@@ -24,8 +24,8 @@ String button2Lable2 ="Switch2_OFF";
 
 
 
-#define APSSID "00000000000000" // your WiFi SSID
-#define APPSK  "97662995+" //your WiFi password
+#define APSSID "AP_Name" // your WiFi SSID
+#define APPSK  "AP_Password" //your WiFi password
 
 
 const char *ssid = APSSID;
